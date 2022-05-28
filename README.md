@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**AshesKaiser-KR/AshesKaiser-KR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# AshesKaiser
+ -A normal Korean high school student
+ - Being consumed by school
+ - Makes some sphagetti codes
+ - Python pandas
+ - [Mindustry](https://github.com/Anuken/Mindustry) [mods](https://github.com/topics/mindustry-mod)
+ - [Project Unity](https://github.com/AvantTeam/ProjectUnityPublic) contributor
+ 
+ # Stats
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshesKaiser-KR)](https://github.com/anuraghazra/github-readme-stats)
