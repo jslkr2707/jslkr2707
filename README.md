@@ -1,5 +1,5 @@
 # AshesKaiser
- -A normal Korean high school student
+ - A normal Korean high school student
  - Being consumed by school
  - Makes some sphagetti codes
  - Python pandas
