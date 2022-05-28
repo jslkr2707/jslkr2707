@@ -1,5 +1,6 @@
 # Hi
  - A normal Korean high school student
+ - 15 years old / male
  - Being consumed by school
  - Makes some sphagetti codes
  - Python pandas
