@@ -4,7 +4,7 @@
  * Being consumed by school
  * Makes some sphagetti codes
    * pandas
-   * [Mindustry](https://github.com/Anuken/Mindustry) [mods](https://github.com/topics/mindustry-mod) ([Mindustry: Ages](https://AshesKaiser-KR/Mindustry-Ages))
+   * [Mindustry](https://github.com/Anuken/Mindustry) [mods](https://github.com/topics/mindustry-mod) ([Mindustry: Ages](https://github.com/AshesKaiser-KR/Mindustry-Ages))
    * [Project Unity](https://github.com/AvantTeam/ProjectUnityPublic) contributor
  
  # Stats
