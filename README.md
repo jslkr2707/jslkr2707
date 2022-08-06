@@ -1,7 +1,6 @@
 # Hi
- * A normal Korean high school student
+ * A normal Korean high school student, may be consumes by school..
  * 16 years old / male
- * Being consumed by school
  * Making some sphagetti codes
    * pandas
    * [Mindustry](https://github.com/Anuken/Mindustry) [mods](https://github.com/topics/mindustry-mod) ([Mindustry: Ages](https://github.com/AshesKaiser-KR/Mindustry-Ages))
