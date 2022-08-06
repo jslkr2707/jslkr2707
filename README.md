@@ -1,5 +1,5 @@
 # Hi
- * A normal Korean high school student, may be consumes by school..
+ * A normal Korean high school student, may be consumed by school..
  * 16 years old / male
  * Making some sphagetti codes
    * pandas
