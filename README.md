@@ -1,11 +1,11 @@
 # Hi
- * A normal Korean high school student, may be consumed by school..
- * 16 years old / male
- * Making some sphagetti codes
-   * pandas
-   * [Mindustry](https://github.com/Anuken/Mindustry) [mods](https://github.com/topics/mindustry-mod) ([Mindustry: Ages](https://github.com/AshesKaiser-KR/Mindustry-Ages))
+ * A normal Korean high school student, may be consumed by school
+ * 16 yo, male
+ * What I do/did
+   * Data Science(pandas, R, Julia, etc.)
+   * [Mindustry](https://github.com/Anuken/Mindustry) [mods](https://github.com/topics/mindustry-mod) ([Mindustry: Ages](https://github.com/jslkr2707/Mindustry-Ages))
    * [Project Unity](https://github.com/AvantTeam/ProjectUnityPublic) contributor
-   * learning C in school
+   * Face Form Finding Website(for school festival purposes)
  
  # Stats
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jslkr2707)](https://github.com/anuraghazra/github-readme-stats)
