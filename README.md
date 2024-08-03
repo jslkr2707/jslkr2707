@@ -1,6 +1,6 @@
 # Hi
- * A normal Korean high school student, may be consumed by school
- * 16 yo, male
+ * A normal Korean high school student, being destroyed by school
+ * 18 yo, male
  * What I do/did
    * Data Science(pandas, R, Julia, etc.)
    * [Mindustry](https://github.com/Anuken/Mindustry) [mods](https://github.com/topics/mindustry-mod) ([Mindustry: Ages](https://github.com/jslkr2707/Mindustry-Ages))
